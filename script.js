@@ -33,8 +33,8 @@ function getRandomPassword() {
 
     let randomletters, randomUpLetters, randomNumbers, random$ymbols
 
-    // for (let i = 0; i <= inputLenght.value; i++) {
+    for (let i = 0; i <= inputLenght.value; i++) {
         
-    // }
+    }
     return 'dfagrehashaesdfsdfh'
 }
